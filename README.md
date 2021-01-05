@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 ## My personal blog
 [LifeNote](https://leonnon968.github.io/LifeNote/)
 
-## my stats
+
+## My entertainment site
+[CedarPokemon](https://leonnon968.github.io/pm/)
+
+## My stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=leonnon968&show_icons=true" alt="my github stats" width="420"/>
   &nbsp;
