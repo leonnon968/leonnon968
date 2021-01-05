@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 
 <!--
@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+## My personal blog
+[LifeNote](https://leonnon968.github.io/LifeNote/)
+
+## my stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=leonnon968&show_icons=true" alt="my github stats" width="420"/>
   &nbsp;
